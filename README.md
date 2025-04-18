@@ -1,4 +1,4 @@
-🛒 Simple MERN E-Commerce App
+# 🛒 Simple MERN E-Commerce App
 
 A basic e-commerce website built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. This is a beginner-level project that helps understand full-stack web development.
 
